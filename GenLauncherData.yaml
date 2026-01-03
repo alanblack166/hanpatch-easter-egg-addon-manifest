@@ -1,7 +1,7 @@
 ModificationType: Addon
 Name: Hanpatch Easter Egg Units
 Version: v1
-SimpleDownloadLink: https://gen.insave.ovh/rotr/hanpatch-easter-eggs/HanPatchEasterEggs.zip
+SimpleDownloadLink: https://gen.insave.ovh/rotr/easter-eggs/HanPatchEasterEggs.zip
 UIImageSourceLink: ''
 DiscordLink: https://discord.gg/REcbv37
 ModDBLink: https://www.moddb.com/mods/rise-of-the-reds-hanpatch
@@ -12,5 +12,6 @@ S3BucketName: rotr
 S3FolderName: hanpatch-easter-eggs
 S3HostPublicKey: ''
 S3HostSecretKey: ''
+
 
 
