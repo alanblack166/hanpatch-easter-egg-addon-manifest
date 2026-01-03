@@ -8,8 +8,9 @@ ModDBLink: https://www.moddb.com/mods/rise-of-the-reds-hanpatch
 NewsLink: https://docs.google.com/document/d/1ZMlVFDPf4SDD5Y6vYatOCtaudBBl32gdWg-YrswvnGo
 DependenceName: Hanpatch
 S3HostLink: gen.insave.ovh:9000
-S3BucketName: ''
-S3FolderName: ''
+S3BucketName: rotr
+S3FolderName: hanpatch-easter-eggs
 S3HostPublicKey: ''
 S3HostSecretKey: ''
+
 
